@@ -1,4 +1,4 @@
-#Computer Science 132 Project 1: Inventory and Sales Management System
+# Computer Science 132 Project 1: Inventory and Sales Management System
 
 Implemented Functionalities-
   Adding products to the inventory.

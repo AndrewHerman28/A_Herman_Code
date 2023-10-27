@@ -19,7 +19,7 @@
 * Q: Quit Program- You can quit the program to end
 
 
-Discussion of Project Result-
+## Discussion of Project Result-
         The project provides a functional inventory and sales management system. Users can perform operations such as adding products, updating          stock quantities, selling products, and viewing transaction history. The system efficiently records sales and restocking transactions            immediately after the action, allowing store owners to track their total revenue. The user interface is user-friendly by simply                  responding to the question displayed with one character for each action. The result of the project accomplishes its primary objectives           as a basic inventory and sales management system for a business to track its progress.
 
     

@@ -10,9 +10,8 @@
   * Providing a user interface for interacting with the system.
 
 
-Test Results-
-    The user can type:
-          P: Purchase a product- You can purchase products, and the system will check the stock availability, calculate the total cost, and                   update the inventory and revenue accordingly.
+## Test Results-
+* P: Purchase a product- You can purchase products, and the system will check the stock availability, calculate the total cost, and                   update the inventory and revenue accordingly.
           D: View product data- You can view detailed information about a product by providing its ID.
           H: View report history- The system records all sales and restock transactions, which can be viewed in the transaction history.
           B: View total revenue- You can check the total revenue earned by the store.

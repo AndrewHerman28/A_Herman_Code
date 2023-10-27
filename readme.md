@@ -1,13 +1,13 @@
 # Computer Science 132 Project 1: Inventory and Sales Management System
 
-Implemented Functionalities-
-  Adding products to the inventory.
-  Updating stock quantities of products in the inventory.
-  Viewing product data.
-  Selling products.
-  Maintaining a transaction history.
-  Checking the total revenue.
-  Providing a user interface for interacting with the system.
+## Implemented Functionalities-
+  * Adding products to the inventory.
+  * Updating stock quantities of products in the inventory.
+  * Viewing product data.
+  * Selling products.
+  * Maintaining a transaction history.
+  * Checking the total revenue.
+  * Providing a user interface for interacting with the system.
 
 
 Test Results-
